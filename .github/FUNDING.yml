@@ -1,0 +1,57 @@
+/* Style for Sponsor Section */
+.sponsor-section {
+    text-align: center;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+.sponsor-section h2 {
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.sponsor-section p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+/* Style for Sponsor Button */
+.sponsor-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #f8b400; /* Button Color */
+    color: white; /* Text Color */
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8px; /* Rounded Corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow Effect */
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.sponsor-btn:hover {
+    background-color: #e69500; /* Hover Color */
+    transform: translateY(-3px); /* Hover Animation */
+}
+
+.sponsor-btn:active {
+    transform: translateY(1px); /* Active Button */
+} These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+polar: # Replace with a single Polar username
+buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
+thanks_dev: # Replace with a single thanks.dev username
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
